@@ -1,0 +1,19 @@
+# Cache & compiled files
+__pycache__/
+*.pyc
+
+# Checkpoints
+results_qa/
+runs/
+checkpoints/
+
+# JSONL dataset
+train_qa.jsonl
+
+# Jupyter leftovers
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+*.egg-info/

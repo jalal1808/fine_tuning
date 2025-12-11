@@ -1,0 +1,7 @@
+transformers
+datasets
+pypdf
+torch
+accelerate
+sentencepiece
+protobuf
